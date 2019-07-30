@@ -1,4 +1,4 @@
-# EDA
+# EDA on the GDP Data for NIT Aayog Data
 Practice on EDA
 Hi Folks,
 THis is my first project on the EDA using Python.
